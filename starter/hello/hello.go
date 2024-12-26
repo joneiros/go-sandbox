@@ -7,5 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println(quote.Opt())
+	fmt.Println(quote.Glass())
+	fmt.Println("Unicode: ĥ Ǆ ҉")
 }
